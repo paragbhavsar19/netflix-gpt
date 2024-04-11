@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.Login-part {
+    background-image: url(../public/images/login.jpg);
+}
