@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 
-.Login-part {
+.Login-part, .gptsearch {
     background-image: url(../public/images/login.jpg);
 }
